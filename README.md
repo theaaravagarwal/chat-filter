@@ -64,7 +64,7 @@ profanityFilter.init({
 The project includes a comprehensive test suite that can be run using:
 
 ```bash
-node profanity-tester.js
+node tester.js
 ```
 
 The test suite includes:
